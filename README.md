@@ -31,7 +31,7 @@ entirely with just `<div>`, `<h1>`, and `<img>` elements. The top black
 navigation bar is one `<div>`, and it contains an image of the Kode With Klossy
 logo. 
 
-**NOTE:** Show this in Chome (an extremely useful tool is the element selector,
+**NOTE:** Show this in Chrome (an extremely useful tool is the element selector,
 which can be accessed either by clicking the top left icon in the developer
 tools window, or by pressing `cmd + shift + c`). Ask students to call out what
 they think individual elements may be while scrolling through the page. 
