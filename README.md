@@ -39,9 +39,6 @@ they think individual elements may be while scrolling through the page.
 Try eyeballing each box of content below the navigation, including the video,
 the Mission and Program sections, the footer...
 
-#### CFU: Popcorn
-Ask one student to share out loud an element they see in the Kode with Klossy website. Afterwards, that student should 'popcorn', or call on another student, to share another element that they see. Continue this process with approximately four other students. 
-
 With just a little bit of training we can start picking apart a website and
 identifying DOM elements. We have to apologize: from here on out you will start
 seeing pages as a developer, instead of your average user. Indeed, it is a
@@ -108,6 +105,11 @@ page:
   </div>
 </body>
 ```
+#### CFU: Big Group Question
+Ask the students, "Why do you think we divided the page in that way?" 
+Answers should lead to two big concepts behind <div>: 1. to be able to read code easily and quickly 2. for later on in order to style sectioned out HTMl
+
+
 In the example above, we could have written it _without the divs_, so why put
 them in? For a few reasons really. For one, we do this for organization: HTML
 content can get messy pretty quickly, so keeping things sectioned off into
