@@ -39,6 +39,10 @@ they think individual elements may be while scrolling through the page.
 Try eyeballing each box of content below the navigation, including the video,
 the Mission and Program sections, the footer...
 
+#### CFU: Popcorn
+
+Ask one student to share out loud an element they see in the Kode with Klossy website. Afterwards, that student should 'popcorn', or call on another student, to share another element that they see. Continue this process with approximately four other students. 
+
 With just a little bit of training we can start picking apart a website and
 identifying DOM elements. We have to apologize: from here on out you will start
 seeing pages as a developer, instead of your average user. Indeed, it is a
