@@ -40,7 +40,6 @@ Try eyeballing each box of content below the navigation, including the video,
 the Mission and Program sections, the footer...
 
 #### CFU: Popcorn
-
 Ask one student to share out loud an element they see in the Kode with Klossy website. Afterwards, that student should 'popcorn', or call on another student, to share another element that they see. Continue this process with approximately four other students. 
 
 With just a little bit of training we can start picking apart a website and
@@ -109,11 +108,6 @@ page:
   </div>
 </body>
 ```
-#### CFU: Big Group Question
-Ask the students, "Why do you think we divided the page in that way?" 
-Answers should lead to two big concepts behind <div>: 1. to be able to read code easily and quickly 2. for later on in order to style sectioned out HTMl
-
-
 In the example above, we could have written it _without the divs_, so why put
 them in? For a few reasons really. For one, we do this for organization: HTML
 content can get messy pretty quickly, so keeping things sectioned off into
@@ -160,6 +154,9 @@ Have students turn and talk with their partner for ~2 minutes on what sections t
 When you go to your favorite websites, look closely at how they are laid out.
 See if you can accurately guess which elements are used for which parts of the
 rendered page. Don't forget to use Chrome Inspector to see how close you are!
+
+#### CFU: Turn and Talk
+After students inspect their favorite webpage, have them turn and talk to a different pair and share their findings, such as a specific element that they correctly matched up. 
 
 Each box of content on a web page, all the images, the links, every section...
 behind it all is HTML and _you_ know how to read it now. Again, don't get
