@@ -138,10 +138,13 @@ them:
 
 All of these elements are basic `<div>` tags, but given an alias to help use reason about, style, and organize our structure.
 
-**Student 10 Minute Empowerment Pair Exercise:** Students should break up into small groups and work on the following, checking their results in the browser:
+**Student 10 Minute Empowerment Pair Exercise:** Students should break up into small groups and work on the following, checking their results in the browser. The goal is for students to create an 'About Me' page:
+
+#### CFU: Turn and Talk
+Have students turn and talk with their partner for ~2 minutes on what sections they would have on a personal webpage. After the two minutes, have students share whole group with ideas of the sections they come up with. 
 
   - Create a new HTML file and, using the HTML elements just discussed:
-    - Create a navigation with a few links to some of their favorite websites
+    - Create a navigation with a few links to some of their favorite websites   
     - Create a header area with a page title and sub title inside
     - Create a main area with any sort of HTML content - sections, images, links
     - Stretch: Use in-line styling (Google-fu!) to color different sections and beyond
