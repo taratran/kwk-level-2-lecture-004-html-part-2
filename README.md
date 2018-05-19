@@ -25,6 +25,8 @@ render in the browser. We've seen `<div>`, `<h1>`, and `<img>`. These are great;
 with just a few elements like these we can actually do quite a lot in building
 out content on a website. 
 
+*Emphasize: Model how to use the inspector, as students will see lots of language and phrases on a webpage that will be unfamiliar. An example of this  "Let's look at the inspector together. To me, it seems like there's a lot going on and a lot that I may not know-- this is okay! What's important is we look at what we do understand and learn from there." 
+
 Let's Take a look at https://www.kodewithklossy.com/ as an example. With some
 minor _styling_ (CSS) here and there, the landing page could be created almost
 entirely with just `<div>`, `<h1>`, and `<img>` elements. The top black
